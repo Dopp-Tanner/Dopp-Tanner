@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Data-Driven Software Projects
 - 📫 How to reach me dopptanner@gmail.com
+- I currently work at Pattern as a Software Engineer
 
 <!---
 Dopp-Tanner/Dopp-Tanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
