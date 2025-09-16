@@ -5,7 +5,7 @@
 - 📫 How to reach me dopptanner@gmail.com
 - I currently work at Pattern as a Software Engineer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dopp-Tanner)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dopp-Tanner&theme=dark)](https://git.io/streak-stats)
 
 <!---
 Dopp-Tanner/Dopp-Tanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
