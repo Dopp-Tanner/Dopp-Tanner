@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dopp-Tanner
-- 👀 I’m a Student at the University of Utah, interested in Data Science and Software Engineering
-- 🌱 I’m currently learning Computer Science
+- 👀 University of Utah Alumni | Computer Science
 - 💞️ I’m looking to collaborate on Data-Driven Software Projects
 - 📫 How to reach me dopptanner@gmail.com
 - I currently work at Pattern as a Software Engineer
