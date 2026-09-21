@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dopp-Tanner
 - 👀 University of Utah Alumni | Computer Science
-- 💞️ I’m looking to collaborate on Data-Driven Software Projects
 - 📫 How to reach me dopptanner@gmail.com
-- I currently work at Pattern as a Software Engineer
+- I currently work at Augment as a Software Engineer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dopp-Tanner&theme=dark)](https://git.io/streak-stats)
 
